@@ -1,6 +1,6 @@
 # Lab: doctests + continuous integration
 
-<img src="https://github.com/megan-tu/lab-doctests/workflows/tests/badge.svg" />
+<img src="https://github.com/megan-tu/Python-Lab-1" />
 
 **Instructions:**
 
